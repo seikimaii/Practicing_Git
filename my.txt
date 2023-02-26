@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-new newn new new
-=======
-modify
->>>>>>> 09f33b81933f8fdb951ef3594d02e5291b993a11
+CCC
